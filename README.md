@@ -4,7 +4,8 @@ This repository contains replication material for the QTA Term Paper.
 
 ## Dataset
 
-The dataset is **not included in this repository** due to file size limitations (49 MB). It was sent separately as a `.zip` file alongside the paper. Please download and extract the dataset manually.
+The dataset files is df_rede_final (in CSV or RDS format). It was constructed with the ScriptXML_to_Dataset.R. So this does not need to be run again.
+The plenary debate protocolls, on which this dataset is based on, are **not included in this repository** due to file size limitations (49 MB). It can be downloaded via Dropbox: https://www.dropbox.com/scl/fo/qlx2g4f126ogqzm1g5naz/AAaAVTWtQg4FaqkZhPjC3M0?rlkey=r01nk9lg77oy9xs1evrw3ru5k&st=zbb5le23&dl=0 
 
 ## Getting Started
 
