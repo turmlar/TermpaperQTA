@@ -19,3 +19,6 @@ The analysis is split across several R scripts. This structure was chosen becaus
 - Each script runs independently and loads its own data.
 - The **Python script** for web scraping is included for informational purposes only. It does **not need to be run**, as the final dataset (scraped `.xml` files) is already provided.
 
+## KWIC Table
+
+The file `kwic_table_abtreibung.pdf` is provided for informational purposes. It displays the keyword-in-context (KWIC) results for the term *Abtreibung* across all parties. This table illustrates how different political actors use the term rhetorically in parliamentary speeches. Due to its length, it was not included directly in the paper's appendix but is available here for reference.
