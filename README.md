@@ -10,7 +10,7 @@ The dataset is **not included in this repository** due to file size limitations 
 
 After downloading all materials and setting the correct **working directory**, you can begin the replication process.
 
-The R scripts are **numbered and should be executed in order** (e.g., `01_...`, `02_...`, etc.). They are written in a modular way and will load all necessary files from the working directory automatically.
+The R scripts are **numbered and should be executed in order** (e.g., `Script1...` etc.). They are written in a modular way and will load all necessary files from the working directory automatically.
 
 ## Script Structure
 
