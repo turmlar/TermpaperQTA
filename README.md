@@ -19,6 +19,3 @@ The analysis is split across several R scripts. This structure was chosen becaus
 - Each script runs independently and loads its own data.
 - The **Python script** for web scraping is included for informational purposes only. It does **not need to be run**, as the final dataset (scraped `.xml` files) is already provided.
 
-## Included Scripts
-
-Each script is fully commented and self-contained.
